@@ -1,0 +1,15 @@
+---
+layout: layout
+---
+<header>
+  <h1>Aulas</h1>
+</header>
+<div>
+  <p>Essa página contém os slides, notas e exemplos de códigos relacionados às aulas.</p>
+  <hr />
+
+  {% for aula in site.aulas %}
+    <h3>{{ aula.day }}: {{ aula.title }}</h3>
+    {{ aula.content }}
+  {% endfor %}
+</div>

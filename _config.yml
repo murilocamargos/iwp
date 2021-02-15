@@ -1,0 +1,5 @@
+collections:
+  tarefas:
+    output: true
+  aulas:
+    output: false
