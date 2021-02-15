@@ -1,6 +1,8 @@
+baseurl: /pwi-1-2021
+
 collections:
   tarefas:
     output: true
-    permalink: /pwi-1-2021/tarefas/:title
+    permalink: /tarefas/:title
   aulas:
     output: false

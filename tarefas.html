@@ -11,7 +11,7 @@ layout: default
   {% for tarefa in site.tarefas %}
     <h2>Tarefa {{ tarefa.number }}</h2>
     <ul>
-        <li><a href="{{ tarefa.url }}">Tarefa {{ tarefa.number }}: {{ tarefa.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ tarefa.url }}">Tarefa {{ tarefa.number }}: {{ tarefa.title }}</a></li>
         <li>Entregar até o dia <strong>{{ tarefa.deadline }}</strong></li>
     </ul>
   {% endfor %}
