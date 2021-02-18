@@ -15,25 +15,25 @@
       <section class="head">
         <nav>
           <ul>
-            <li>
-              <a href="ementa" class="nav">Ementa</a>
+            <li {% if page.active == 'syllabus' %} class="active" {% endif %} >
+              <a href="{{ site.baseurl }}/syllabus" class="nav">Syllabus</a>
             </li>
-            <li>
-              <a href="info" class="nav">Informações</a>
+            <li {% if page.active == 'info' %} class="active" {% endif %} >
+              <a href="{{ site.baseurl }}/info" class="nav">Information</a>
             </li>
           </ul>
         </nav>
         <section class="contents">
           <a href="{{ site.baseurl }}" class="nav">
-            <h1>PWI</h1>
-            Programação Web Interativa
+            <h1>IWP</h1>
+            Interactive Web Programming
           </a>
         </section>
         <nav>
           <ul>
             <li>
               <a href="https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/" class="nav" target="_blank">
-                Baseado na disciplina CS193X de Stanford
+                Based on Stanford's CS193X
               </a>
             </li>
           </ul>
@@ -42,18 +42,16 @@
       <section class="main">
         <nav>
           <ul>
-            <li>
-              <a href="{{ site.baseurl }}/aulas" class="nav">Aulas</a>
+            <li {% if page.active == 'lectures' %} class="active" {% endif %} >
+              <a href="{{ site.baseurl }}/lectures" class="nav">Lectures</a>
             </li>
-            <li>
-              <a href="{{ site.baseurl }}/tarefas" class="nav">Tarefas</a>
+            <li {% if page.active == 'homework' %} class="active" {% endif %} >
+              <a href="{{ site.baseurl }}/homework" class="nav">Homework</a>
             </li>
           </ul>
         </nav>
         <section>
-          <article>
-            {{ content }}
-          </article>
+          {{ content }}
         </section>
       </section>
     </div>
