@@ -18,7 +18,6 @@ A estrutura da tarefa não te fará levar muito tempo para completá-la. Por fav
   <li><a href="#parte-2-obtendo-o-cdigo-da-tarefa-0">Parte 2: Obtendo o código da Tarefa 0</a></li>
   <li><a href="#parte-3-editando-o-cdigo-da-tarefa-0">Parte 3: Editando o código da Tarefa 0</a></li>
   <li><a href="#parte-4-faa-o-upload-no-github">Parte 4: Faça o upload no GitHub</a></li>
-  <li><a href="#parte-6-submeta">Parte 6: Submeta</a></li>
 </ul>
 
 <section class="part" markdown="1">
