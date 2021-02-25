@@ -8,8 +8,7 @@ Welcome to IWP: Interactive Web Programming! In this class, you will learn moder
 
 - <span class="label">Prereq</span> [Programming Languages](https://emap.fgv.br/en/discipline/graduacao-matematica-aplicada-graduacao-ciencia-de-dados/programming-languages)<br/>
 - <span class="label">Lectures</span> Tue-Thu, 14h00-15h30 online <br/>
-- <span class="label">Exams</span> No exams at all.<br/>
-- <span class="label">Final project</span> Yes, there will be one. Details will be defined.
+- <span class="label">Exams</span> No exams at all.
 
 ## Announcements
 - [02/03] [Homework 0]({{ site.baseurl }}/homework/0-welcome) is released and is due **Tue, Mar 9**.

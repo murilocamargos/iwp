@@ -25,6 +25,21 @@ section.main a.nav {
   color: black;
 }
 
+section.main {
+  display: flex;
+  flex-direction: column;
+}
+
+section.main section {
+  height: 100vh;
+}
+
+section.main .icon {
+  text-align: center;
+  margin: 30px 0;
+  font-size: small;
+}
+
 a:not(.nav) {
   color: #1228e2;
   position: relative;
