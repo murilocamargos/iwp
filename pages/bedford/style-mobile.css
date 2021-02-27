@@ -1,0 +1,348 @@
+body {
+  margin: 0;
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+.button,
+.menu,
+.col h3,
+header section h1,
+#subscribe h1,
+footer div {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  padding: 20px;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.mobile-menu div {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+}
+
+@media (max-width: 500px) {
+  .menu {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: block;
+  }
+}
+
+
+.menu a {
+  color: white;
+  /*font-size: 14px;*/
+  font-size: 0.875em;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-weight: 600;
+}
+
+.button {
+  padding: 10px 15px;
+  color: white;
+  border-radius: 100px;
+  background-color: rgb(54, 179, 168);
+  text-decoration: none;
+  transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+}
+
+.button:hover {
+  background-color: rgba(54, 179, 168, 0.8);
+}
+
+p {
+  text-align: center;
+  /*font-size: 18px;*/
+  font-size: 1.125em;
+  line-height: 36px;
+}
+
+@media (max-width: 500px) {
+  p {
+    line-height: 30px;
+  }
+}
+
+.take-action {
+  /*font-size: 15px;*/
+  font-size: 0.9375em;
+  border: 2px solid white;
+  margin-left: 10px;
+  background: transparent;
+}
+
+.take-action:hover {
+  background-color: white;
+  color: black;
+}
+
+header {
+  background-image: url('images/header.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 650px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media (max-width: 500px) {
+  header {
+    height: 400px;
+  }
+}
+
+header section {
+  z-index: 1;
+  text-align: center;
+}
+
+header section h1 {
+  /*font-size: 68px;*/
+  font-size: 4.25em;
+  color: white;
+  margin: 0;
+  letter-spacing: 4px;
+}
+
+@media (max-width: 500px) {
+  header section h1 {
+    font-size: 2em;
+  }
+}
+
+header section em {
+  /*font-size: 20px;*/
+  font-size: 1.25em;
+  color: #fff;
+  margin: 20px auto;
+  letter-spacing: 1px;
+  display: block;
+}
+
+header section a, .content .col a  {
+  display: inline-block;
+  margin: 20px auto;
+}
+
+article {
+  width: 60%;
+  margin: 100px auto;
+}
+
+@media (max-width: 500px) {
+  article {
+    width: 90%;
+    margin: 3em auto;
+  }
+}
+
+#preamble {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+@media (max-width: 500px) {
+  #preamble {
+    margin-bottom: 0;
+  }
+}
+
+#preamble h2 {
+  /*font-size: 28px;*/
+  font-size: 1.75em;
+  text-transform: none;
+}
+
+#preamble p {
+  color: rgba(26, 26, 26, .7);
+  width: 75%;
+  margin: 20px auto;
+}
+
+@media (max-width: 500px) {
+  #preamble p {
+    width: 90%;
+  }
+}
+
+.content {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 500px) {
+  .content {
+    flex-direction: column;
+    margin-top: 2em;
+  }
+}
+
+.content .col {
+  width: calc(50% - 10px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 500px) {
+  .content .col {
+    width: 100%;
+    margin-top: 2em;
+  }
+}
+
+.content .col h3 {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.3);
+  letter-spacing: 2px;
+}
+
+.content .col p {
+  text-transform: none;
+  color: rgba(0, 0, 0, 0.6);
+  width: 80%;
+  margin-top: 20px;
+}
+
+@media (max-width: 500px) {
+  .content .col p {
+    width: 100%;
+  }
+}
+
+.content .col a {
+  margin: 10px 0 0 0;
+}
+
+.content .col img {
+  width: 100%;
+}
+
+#subscribe {
+  background-color: #f7f7f7;
+  padding: 75px;
+  text-align: center;
+}
+
+#subscribe h1 {
+  margin: 0;
+  text-align: center;
+  /*font-size: 28px;*/
+  font-size: 1.75em;
+}
+
+#subscribe p {
+  margin: 40px 0;
+}
+
+#subscribe form input, #subscribe form button {
+  padding: 15px;
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  font-family: inherit;
+  outline: none;
+}
+
+#subscribe form input {
+  width: 200px;
+  margin-right: 5px;
+  box-sizing: border-box;
+}
+
+#subscribe form button {
+  margin-left: 5px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 15px 30px;
+  transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+}
+
+@media (max-width: 500px) {
+  #subscribe form input, #subscribe form button {
+    margin: 10px 0;
+  }
+}
+
+#subscribe form button:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+
+footer div {
+  margin: 25px 0;
+}
+
+footer div span {
+  margin: 0 10px;
+  color: rgba(255, 255, 255, .8);
+}
+
+@media (max-width: 500px) {
+  footer div span {
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+footer p {
+  margin: 25px 0;
+  color: rgba(255, 255, 255, .4);
+}
+
+footer p a {
+  color: inherit;
+  border-bottom: 1px solid rgba(255, 255, 255, .4);
+  text-decoration: none;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
