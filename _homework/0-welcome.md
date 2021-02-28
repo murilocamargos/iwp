@@ -65,9 +65,9 @@ In this course, we will be using GitHub for the following purposes:
 
 - [Follow this link](https://classroom.github.com/a/e1zTsiuN), where HW0 is stored on GitHub Classroom.
 - Click the green "Accept this assignment" button.
-{% include img.html src="hw0-1.png" %}
+{% include img.html src="hw0/1.png" %}
 - Follow the link to your newly created assignment on the next screen.
-{% include img.html src="hw0-2.png" %}
+{% include img.html src="hw0/2.png" %}
 
 
 
@@ -90,7 +90,7 @@ At this point, you want to download the files in this repository.
 
 To download the starter code via the GitHub UI:
 - In your homework repository (i.e. <a href="images/your-github-repo.png">this screen</a>), click the green "Code" button, then in the "Download ZIP" button.
-{% include img.html src="hw0-3.png" %}
+{% include img.html src="hw0/3.png" %}
 
 ### 3. View the starter code in a browser
 {:.no_toc}
@@ -100,7 +100,7 @@ Note that **Chrome** is the recommended browser for the course, and your TAs wil
 - Unzip your downloaded zip file somewhere on your computer
 - Open "index.html" in Chrome or another browser of your choosing.
 - You should see something that looks like the following:
-{% include img.html src="hw0-4.png" %}
+{% include img.html src="hw0/4.png" %}
 
 </section>
 
@@ -118,7 +118,7 @@ _Optional: We will be using VSCode in lecture, but you may use whatever text edi
 
 - In VSCode (or your preferred text editor), open `index.html` and fix the TODOs.
 - Here is a screenshot of an example "solution":
-{% include img.html src="hw0-5.png" %}
+{% include img.html src="hw0/5.png" %}
 - If you'd like, you can further style, decorate, or modify your page to your liking. This is not required, however.
 
 </section>
@@ -138,12 +138,12 @@ Now that you've completed the homework, you should upload your files back to you
 
 - Navigate to your Homework 0 repository on GitHub.
 - Click the "Upload files" button.
-{% include img.html src="hw0-6.png" %}
+{% include img.html src="hw0/6.png" %}
 - On the next screen, select your `index.html`, `style.css`, and your image file for upload. Your screen should now look like the following:
-{% include img.html src="hw0-7.png" %}
+{% include img.html src="hw0/7.png" %}
   - (You actually don't have to upload `style.css` again if you didn't modify it.)
 - Scroll to the bottom of the screen and click the green "Commit changes" button. You don't need to fill out any of the form.
-{% include img.html src="hw0-8.png" %}
+{% include img.html src="hw0/8.png" %}
 - You should be redirected to the main repository screen again. The existing files should be updated and your new files should be uploaded.
 
 </section>
