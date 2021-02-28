@@ -5,6 +5,8 @@ title: 'Welcome to IWP'
 subtitle: 'Homework 0'
 deadline: "Mar 9"
 turnin: "https://forms.gle/oEMtScKykEyn9aqc8"
+github_assignment: "https://classroom.github.com/a/e1zTsiuN"
+display: true
 ---
 
 This assignment is designed to help you get set up with your development environment and with our homework turn-in system.
@@ -63,7 +65,7 @@ In this course, we will be using GitHub for the following purposes:
 ### 1. Accept the HW0 assignment
 {:.no_toc}
 
-- [Follow this link](https://classroom.github.com/a/e1zTsiuN), where HW0 is stored on GitHub Classroom.
+- [Follow this link]({{ page.github_assignment }}), where HW0 is stored on GitHub Classroom.
 - Click the green "Accept this assignment" button.
 {% include img.html src="hw0/1.png" %}
 - Follow the link to your newly created assignment on the next screen.
