@@ -256,8 +256,8 @@ article > * {
 
 @media (min-width: 54em) {
   article > * {
-    padding-left: 4em;
-    padding-right: 4em;
+    padding-left: 3em;
+    padding-right: 3em;
   }
 }
 
@@ -333,14 +333,12 @@ div.week h3 {
 }
 
 div.week {
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding: 1em;
 }
 
 @media (min-width: 54em) {
   div.week {
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding: 2em;
   }
 }
 
