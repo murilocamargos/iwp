@@ -14,6 +14,7 @@ This assignment is designed to help you get set up with your development environ
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real homework assignment.
 
 <span class="label">Due Date:</span> {{ page.deadline }}
+<span class="label">HW0 Turn-in:</span> [Submission Form]({{ page.turnin }})
 
 ---
 
