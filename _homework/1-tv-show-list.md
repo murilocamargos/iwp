@@ -4,8 +4,8 @@ number: 1
 title: 'TV Show List'
 subtitle: 'Homework 1'
 deadline: "Mar 18"
-turnin: "https://forms.gle/oEMtScKykEyn9aqc8"
-github_assignment: "https://classroom.github.com/assignment-invitations/7267dc1a9dd07336dad75191c11919f5"
+turnin: "https://forms.gle/LWg4agQmRX8DyCar7"
+github_assignment: "https://classroom.github.com/a/m25Yc5ar"
 display: false
 ---
 
