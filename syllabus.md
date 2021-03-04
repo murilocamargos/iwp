@@ -15,10 +15,11 @@ This is a tentative syllabus for Interactive Web Programming. **This syllabus is
 - Syllabus and course info
 - HTML and CSS basics: syntax
 
-### Mar 4: Block vs inline; classes and ids
+### Mar 4: Block vs inline; classes and ids; complex selectors
 - Block vs inline
 - `div` and `span`
 - `class`es and `id`s
+- Combining selectors; cascading; inheritance
 
 </div>
 
@@ -29,8 +30,7 @@ This is a tentative syllabus for Interactive Web Programming. **This syllabus is
 
 ## Week 2
 
-### Mar 9: More selectors; box model; flexbox <span class="label">HW1 assigned</span>
-- Combining selectors; cascading; inheritance
+### Mar 9: Box model; flexbox <span class="label">HW1 assigned</span>
 - Box model: `padding`, `border`, `margin`
 - Debugging with Chrome Inspector
 - **Case study:** Squarespace layout
