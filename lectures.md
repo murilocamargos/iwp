@@ -16,6 +16,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - Block vs inline
   - `div` and `span`
   - `classes` and `ids`
+  - Complex selectors
   - [Block vs inline guide](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/lectures/05/block-inline)
 
 ### Mar 2: Course overview and basic HTML/CSS
