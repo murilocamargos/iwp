@@ -11,6 +11,18 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Mar 11: More flexbox and layout; position; Mobile web
+- **Slides:** [lecture04.pdf]({{ site.baseurl }}/lectures/lecture04.pdf)
+  - More flexbox: shrink and grow
+  - `height`/`width` percentage quirks: `vh`/`vw` and `box-sizing`
+  - `position`
+  - Useful `background-image` properties
+  - Mobile CSS
+  - Relative sizes: `em` and `rem`
+- Code:
+  - [html](https://murilocamargos.github.io/iwp/pages/bedford/index.html) / [css](https://murilocamargos.github.io/iwp/pages/bedford/style.css): A rough copy of the Bedford Squarespace template. Be sure to inspect elements and view the source to see how it works!
+  - [html](https://murilocamargos.github.io/iwp/pages/bedford/index-mobile.html) / [css](https://murilocamargos.github.io/iwp/pages/bedford/style-mobile.css): The mobile version of our Squarespace layout.
+
 ### Mar 9: CSS Box Model; Flexbox
 - **Slides:** [lecture03.pdf]({{ site.baseurl }}/lectures/lecture03.pdf)
   - The CSS Box model
