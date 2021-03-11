@@ -11,6 +11,7 @@ Welcome to IWP: Interactive Web Programming! In this class, you will learn moder
 - <span class="label">Exams</span> No exams at all.
 
 ## Announcements
+- [09/03] [Homework 1]({{ site.baseurl }}/homework/1-tv-show-list) is released and is due **Tue, Mar 18**.
 - [02/03] [Homework 0]({{ site.baseurl }}/homework/0-welcome) is released and is due **Tue, Mar 9**.
 
 ## Contact
