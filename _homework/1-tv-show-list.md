@@ -104,6 +104,16 @@ A full-size screenshot of the entire page is linked below:
 - The font face is `'Source Sans Pro'` and the fallback font is `sans-serif`.
 - The background color is `rgba(66, 180, 214, 0.05)`
 - The border color is `rgba(66, 180, 214, 0.5)`
+- You should use a component you don't know yet: `select`
+  - The syntax is quite simple:
+
+```
+<select>
+  <option value="valor-1">Valor 1</option>
+  <option value="valor-2">Valor 2</option>
+</select>
+```
+- To override the browser's default border behavior you can use `outline: none;`
 </section>
 
 
