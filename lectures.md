@@ -11,6 +11,16 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Mar 16: Introduction to JavaScript; DOM and events
+- **Slides:** [lecture05.pdf]({{ site.baseurl }}/lectures/lecture05.pdf)
+  - Start JavaScript
+    - How to connect to HTML (<script defer>)
+    - Language tour
+    - Some form elements (input, textarea) and maybe how to style them
+  - Basic event handling
+  - Introducing the DOM: Document Object Model
+
+
 ### Mar 11: More flexbox and layout; position; Mobile web
 - **Slides:** [lecture04.pdf]({{ site.baseurl }}/lectures/lecture04.pdf)
   - More flexbox: shrink and grow
