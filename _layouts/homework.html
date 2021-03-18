@@ -1,0 +1,13 @@
+---
+layout: page
+---
+{{ page.description }}
+<br><br>
+<span class="label">Due Date:</span> {{ page.deadline }}<br>
+{% if page.turnin %}
+<span class="label">HW{{ page.number }} Turn-in:</span> <a href="{{ page.turnin }}" target="_blank">Submission Form</a>
+{% endif %}
+
+<hr>
+
+{{ content }}

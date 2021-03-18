@@ -11,6 +11,15 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Mar 18: More DOM; case study
+- **Slides:** [lecture06.pdf]({{ site.baseurl }}/lectures/lecture06.pdf)
+  - Adding and removing elements from DOM
+  - Case Study: tic-tac-toe
+  - Traversing the DOM
+- [Homework 2]({{ site.baseurl }}/homework/2-tv-show-episodes) <span class="label">HW2 assigned</span>
+- <span class="label">HW1 DUE</span>
+
+
 ### Mar 16: Introduction to JavaScript; DOM and events
 - **Slides:** [lecture05.pdf]({{ site.baseurl }}/lectures/lecture05.pdf)
   - Start JavaScript

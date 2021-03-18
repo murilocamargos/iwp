@@ -1,19 +1,13 @@
 ---
-layout: page
+layout: homework
 number: 1
 title: 'TV Show List'
 subtitle: 'Homework 1'
 deadline: "Mar 18"
 turnin: "https://forms.gle/LWg4agQmRX8DyCar7"
 github_assignment: "https://classroom.github.com/a/m25Yc5ar"
+description: "In this homework, you will be practicing the HTML and CSS that we learned in lecture. You are given screenshots and a description of a specific web page to replicate. You will recreate the web page exactly as shown in the provided screenshots."
 display: true
----
-
-In this homework, you will be practicing the HTML and CSS that we learned in lecture. You are given screenshots and a description of a specific web page to replicate. You will recreate the web page exactly as shown in the provided screenshots.  
-
-<span class="label">Due Date:</span> {{ page.deadline }}  
-<span class="label">HW1 Turn-in:</span> [Submission Form]({{ page.turnin }})
-
 ---
 
 * TOC
@@ -174,8 +168,5 @@ For full credit, please abide by the following:
 ## Submit
 
 Upload your completed homework to your GitHub repository and publish them, in the same way that you did with [Homework 0]({{ site.baseurl }}/homework/0-welcome).
-
-Turn in the link to your GitHub repository and links to your two completed web pages via this form:
-- [Turn in Homework 1]({{ page.turnin }})
 
 </section>

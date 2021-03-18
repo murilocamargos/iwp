@@ -1,21 +1,13 @@
 ---
-layout: page
+layout: homework
 number: 0
 title: 'Welcome to IWP'
 subtitle: 'Homework 0'
 deadline: "Mar 9"
 turnin: "https://forms.gle/oEMtScKykEyn9aqc8"
 github_assignment: "https://classroom.github.com/a/e1zTsiuN"
+description: "This assignment is designed to help you get set up with your development environment and with our homework turn-in system.<br><br>This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real homework assignment."
 display: true
----
-
-This assignment is designed to help you get set up with your development environment and with our homework turn-in system.
-
-This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real homework assignment.
-
-<span class="label">Due Date:</span> {{ page.deadline }}  
-<span class="label">HW0 Turn-in:</span> [Submission Form]({{ page.turnin }})
-
 ---
 
 * TOC
