@@ -18,7 +18,8 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - Traversing the DOM
 - [Homework 2]({{ site.baseurl }}/homework/2-tv-show-episodes) <span class="label">HW2 assigned</span>
 - <span class="label">HW1 DUE</span>
-
+- **Code**:
+  - [html]({{ site.baseurl }}/pages/tic-tac-toe/index.html) / [css]({{ site.baseurl }}/pages/tic-tac-toe/style.css) / [js]({{ site.baseurl }}/pages/tic-tac-toe/script.js): Case study: tic-tac-toe.
 
 ### Mar 16: Introduction to JavaScript; DOM and events
 - **Slides:** [lecture05.pdf]({{ site.baseurl }}/lectures/lecture05.pdf)
@@ -39,8 +40,8 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - Mobile CSS
   - Relative sizes: `em` and `rem`
 - **Code**:
-  - [html](https://murilocamargos.github.io/iwp/pages/bedford/index.html) / [css](https://murilocamargos.github.io/iwp/pages/bedford/style.css): A rough copy of the Bedford Squarespace template. Be sure to inspect elements and view the source to see how it works!
-  - [html](https://murilocamargos.github.io/iwp/pages/bedford/index-mobile.html) / [css](https://murilocamargos.github.io/iwp/pages/bedford/style-mobile.css): The mobile version of our Squarespace layout.
+  - [html]({{ site.baseurl }}/pages/bedford/index.html) / [css]({{ site.baseurl }}/pages/bedford/style.css): A rough copy of the Bedford Squarespace template. Be sure to inspect elements and view the source to see how it works!
+  - [html]({{ site.baseurl }}/pages/bedford/index-mobile.html) / [css]({{ site.baseurl }}/pages/bedford/style-mobile.css): The mobile version of our Squarespace layout.
 
 ### Mar 9: CSS Box Model; Flexbox
 - **Slides:** [lecture03.pdf]({{ site.baseurl }}/lectures/lecture03.pdf)
