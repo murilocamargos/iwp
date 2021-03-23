@@ -11,6 +11,17 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Mar 23: Event propagation; casy study
+- **Slides:** [lecture07.pdf]({{ site.baseurl }}/lectures/lecture07.pdf)
+  - JS Events in detail
+  - Other JavaScript events
+  - Case Study: photo-album
+- **Code**:
+  - [key-events]({{ site.baseurl }}/pages/key-events)
+  - [photos-start]({{ site.baseurl }}/pages/photos-start)
+  - [photos-key-events]({{ site.baseurl }}/pages/photos-key-events)
+  - [photos-touch-events]({{ site.baseurl }}/pages/photos-touch-events)
+
 ### Mar 18: More DOM; case study
 - **Slides:** [lecture06.pdf]({{ site.baseurl }}/lectures/lecture06.pdf)
   - Adding and removing elements from DOM
