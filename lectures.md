@@ -11,6 +11,16 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+
+### Mar 25: CSS animations; classes; custom events; callbacks
+- **Slides:** [lecture08.pdf]({{ site.baseurl }}/lectures/lecture08.pdf)
+  - CSS animations
+  - Classes and objects in JavaScript
+  - `this` keyword and `bind`
+  - Custom events
+  - Introduction to callbacks and functional programming
+
+
 ### Mar 23: Event propagation; casy study
 - **Slides:** [lecture07.pdf]({{ site.baseurl }}/lectures/lecture07.pdf)
   - JS Events in detail
@@ -22,6 +32,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - [photos-key-events]({{ site.baseurl }}/pages/photos-key-events)
   - [photos-touch-events]({{ site.baseurl }}/pages/photos-touch-events)
 
+
 ### Mar 18: More DOM; case study
 - **Slides:** [lecture06.pdf]({{ site.baseurl }}/lectures/lecture06.pdf)
   - Adding and removing elements from DOM
@@ -31,6 +42,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
 - <span class="label">HW1 DUE</span>
 - **Code**:
   - [html]({{ site.baseurl }}/pages/tic-tac-toe/index.html) / [css]({{ site.baseurl }}/pages/tic-tac-toe/style.css) / [js]({{ site.baseurl }}/pages/tic-tac-toe/script.js): Case study: tic-tac-toe.
+
 
 ### Mar 16: Introduction to JavaScript; DOM and events
 - **Slides:** [lecture05.pdf]({{ site.baseurl }}/lectures/lecture05.pdf)
@@ -54,6 +66,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - [html]({{ site.baseurl }}/pages/bedford/index.html) / [css]({{ site.baseurl }}/pages/bedford/style.css): A rough copy of the Bedford Squarespace template. Be sure to inspect elements and view the source to see how it works!
   - [html]({{ site.baseurl }}/pages/bedford/index-mobile.html) / [css]({{ site.baseurl }}/pages/bedford/style-mobile.css): The mobile version of our Squarespace layout.
 
+
 ### Mar 9: CSS Box Model; Flexbox
 - **Slides:** [lecture03.pdf]({{ site.baseurl }}/lectures/lecture03.pdf)
   - The CSS Box model
@@ -63,6 +76,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
 - [Homework 1]({{ site.baseurl }}/homework/1-tv-show-list) <span class="label">HW1 assigned</span>
 - <span class="label">HW0 DUE</span>
 
+
 ### Mar 4: Block vs inline; classes and ids; complex selectors
 - **Slides:** [lecture02.pdf]({{ site.baseurl }}/lectures/lecture02.pdf)
   - Block vs inline
@@ -70,6 +84,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - `class`es and `id`s
   - Combining selectors; cascading; inheritance
   - [Block vs inline guide](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/lectures/05/block-inline)
+
 
 ### Mar 2: Course overview and basic HTML/CSS
 - **Slides:** [lecture01.pdf]({{ site.baseurl }}/lectures/lecture01.pdf)
