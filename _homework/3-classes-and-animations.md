@@ -7,7 +7,7 @@ deadline: "Apr 8"
 turnin: "https://forms.gle/3safY87tUBc9Uz7u5"
 github_assignment: "https://classroom.github.com/a/A9tPGmPI"
 description: "In this homework, you will be practicing the JS we learned in class. You are given videos and a description of a specific web page to replicate. In Homework 1 you wrote most of the HTML and CSS; in Homework 2, you wrote the JS code to render all components through DOM manipulation. In this homework you will organize your JS code using ES6 classes, use CSS animations and exercise the use of pointer events."
-display: false
+display: true
 ---
 
 * TOC
