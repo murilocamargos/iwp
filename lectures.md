@@ -11,13 +11,20 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Mar 30: Classes; custom events; callbacks
+- **Slides:** [lecture09.pdf]({{ site.baseurl }}/lectures/lecture09.pdf)
+  - Classes and objects in JavaScript
+  - `this` keyword and `bind`
+  - Custom events
+  - Callbacks
+
 
 ### Mar 25: CSS animations; classes; custom events; callbacks
 - **Slides:** [lecture08.pdf]({{ site.baseurl }}/lectures/lecture08.pdf)
   - CSS animations
   - Classes and objects in JavaScript
   - `this` keyword and `bind`
-  - Custom events
+  - Introduction to Custom events
   - Introduction to callbacks and functional programming
 
 
