@@ -11,6 +11,27 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Apr 13: Callbacks; currying; closures; anonymous functions
+- **Slides:** [lecture10.pdf]({{ site.baseurl }}/lectures/lecture10.pdf)
+  - Callbacks
+  - Functional JavaScript
+    - Closures
+    - Anonymous functions
+    - Closures
+
+
+### Apr 06: NO CLASS
+- A1 week
+
+
+### Apr 08: NO CLASS
+- A1 week
+
+
+### Apr 01: NO CLASS
+- Semana Santa
+
+
 ### Mar 30: Classes; custom events; callbacks
 - **Slides:** [lecture09.pdf]({{ site.baseurl }}/lectures/lecture09.pdf)
   - Classes and objects in JavaScript
