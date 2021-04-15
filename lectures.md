@@ -11,6 +11,19 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Apr 15: Functional JS; Fetch API; Introduction to Promises; JSON.
+- **Slides:** [lecture11.pdf]({{ site.baseurl }}/lectures/lecture11.pdf)
+  - Callbacks
+  - Functional JavaScript
+    - Closures
+    - Anonymous functions
+    - Closures
+  - Loading data from files
+    - Fetch API
+    - Promises
+    - JSON
+
+
 ### Apr 13: Callbacks; currying; closures; anonymous functions
 - **Slides:** [lecture10.pdf]({{ site.baseurl }}/lectures/lecture10.pdf)
   - Callbacks
