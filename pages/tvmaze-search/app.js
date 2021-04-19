@@ -1,4 +1,4 @@
-const TVMAZE_PATH = 'http://api.tvmaze.com/search/shows?q=';
+const TVMAZE_PATH = 'https://api.tvmaze.com/search/shows?q=';
 
 class App {
   constructor() {
