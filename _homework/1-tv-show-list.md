@@ -8,6 +8,7 @@ turnin: "https://forms.gle/LWg4agQmRX8DyCar7"
 github_assignment: "https://classroom.github.com/a/m25Yc5ar"
 description: "In this homework, you will be practicing the HTML and CSS that we learned in lecture. You are given screenshots and a description of a specific web page to replicate. You will recreate the web page exactly as shown in the provided screenshots."
 display: true
+solution: true
 ---
 
 * TOC

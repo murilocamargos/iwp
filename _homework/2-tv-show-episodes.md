@@ -8,6 +8,7 @@ turnin: "https://forms.gle/HvALEHsgrQXpsYTV9"
 github_assignment: "https://classroom.github.com/a/qjw-MrIN"
 description: "In this homework, you will be practicing the JS we learned in class. You are given screenshots and a description of a specific web page to replicate. Most of the page style and appearance was already done in Homework 1. In this homework you will exercise some concepts of responsive web design and event-driven programming."
 display: true
+solution: true
 ---
 
 * TOC

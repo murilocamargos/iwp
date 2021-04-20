@@ -11,6 +11,18 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Apr 20: Fetch API; JSON; Promises; REST API.
+- **Slides:** [lecture12.pdf]({{ site.baseurl }}/lectures/lecture12.pdf)
+  - Fetch
+    - JSON
+    - Fetch in an class
+  - Promises
+  - Querying REST APIs
+    - Form submission
+- **Code**:
+  - [tvmaze-search]({{ site.baseurl }}/pages/tvmaze-search)
+
+
 ### Apr 15: Functional JS; Fetch API; Introduction to Promises; JSON.
 - **Slides:** [lecture11.pdf]({{ site.baseurl }}/lectures/lecture11.pdf)
   - Callbacks
