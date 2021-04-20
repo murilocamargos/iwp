@@ -3,7 +3,7 @@ layout: homework
 number: 4
 title: 'Using Fetch API'
 subtitle: 'Homework 4'
-deadline: "Mai 11"
+deadline: "May 11"
 turnin: "https://forms.gle/e5io5tQTFyGNQ4Rr8"
 github_assignment: "https://classroom.github.com/a/teJ02YFa"
 description: "In this homework, you will be practicing the how to fetch data from publicly available resources using the fetech API. You are given videos and a description of a specific web page to replicate. For simplicity, use the organization you create in HW 3."
