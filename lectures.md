@@ -11,6 +11,16 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Apr 27: RESTful APIs; Fetch API; JS Event loop.
+- **Slides:** [lecture13.pdf]({{ site.baseurl }}/lectures/lecture13.pdf)
+  - Querying REST APIs
+    - Form submission
+  - Fetch API gotchas
+    - CORS and Closures
+  - Single-threaded asynchrony
+    - JS Event loop
+
+
 ### Apr 20: Fetch API; JSON; Promises; REST API.
 - **Slides:** [lecture12.pdf]({{ site.baseurl }}/lectures/lecture12.pdf)
   - Fetch
@@ -20,6 +30,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - Querying REST APIs
     - Form submission
 - **Code**:
+  - [fetch-images]({{ site.baseurl }}/pages/fetch-images)
   - [tvmaze-search]({{ site.baseurl }}/pages/tvmaze-search)
 
 
