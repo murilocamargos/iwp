@@ -11,6 +11,14 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### May 04: Scalable Vector Graphics; Data-driven Documents lib
+- **Slides:** [lecture14.pdf]({{ site.baseurl }}/lectures/lecture14.pdf)
+  - SVG: Scalable Vector Graphics
+  - D3: Data-driven Documents
+    - Selections
+    - Data joins
+
+
 ### Apr 27: RESTful APIs; Fetch API; JS Event loop.
 - **Slides:** [lecture13.pdf]({{ site.baseurl }}/lectures/lecture13.pdf)
   - Querying REST APIs
