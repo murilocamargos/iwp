@@ -11,6 +11,13 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### May 11: CSV files; Introduction to axes and scales.
+- **Slides:** [lecture15.pdf]({{ site.baseurl }}/lectures/lecture15.pdf)
+  - Making a bar chart with D3
+    - Bind CSV files to SVG shapes
+    - Introduction to axes and scales
+
+
 ### May 04: Scalable Vector Graphics; Data-driven Documents lib
 - **Slides:** [lecture14.pdf]({{ site.baseurl }}/lectures/lecture14.pdf)
   - SVG: Scalable Vector Graphics
