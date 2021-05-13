@@ -11,6 +11,16 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+
+### May 13: The general update pattern of D3.
+- **Slides:** [lecture16.pdf]({{ site.baseurl }}/lectures/lecture16.pdf)
+  - The general update pattern of D3
+    - Another view on enter, update and exit
+    - Animated transitions
+    - Object constancy
+    - Nested and single elements
+
+
 ### May 11: CSV files; Introduction to axes and scales.
 - **Slides:** [lecture15.pdf]({{ site.baseurl }}/lectures/lecture15.pdf)
   - Making a bar chart with D3
