@@ -11,6 +11,14 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### May 20: Back-end development: servers, nodeJS, npm and express.
+- **Slides:** [lecture18.pdf]({{ site.baseurl }}/lectures/lecture18.pdf)
+  - Servers
+  - NodeJS
+  - npm
+  - Express
+  - fetch() to localhost
+
 
 ### May 18: Interactions with D3.
 - **Slides:** [lecture17.pdf]({{ site.baseurl }}/lectures/lecture17.pdf)
