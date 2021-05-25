@@ -11,6 +11,15 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### May 25: Back-end development: servers, nodeJS, npm and express.
+- **Slides:** [lecture19.pdf]({{ site.baseurl }}/lectures/lecture19.pdf)
+  - Servers
+  - NodeJS
+  - npm
+  - Express
+  - fetch() to localhost
+
+
 ### May 20: Back-end development: servers, nodeJS, npm and express.
 - **Slides:** [lecture18.pdf]({{ site.baseurl }}/lectures/lecture18.pdf)
   - Servers
