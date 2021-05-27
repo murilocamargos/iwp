@@ -11,7 +11,15 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
-### May 25: Back-end development: servers, nodeJS, npm and express.
+### May 27: Back-end development: server communication and async/await
+- **Slides:** [lecture20.pdf]({{ site.baseurl }}/lectures/lecture20.pdf)
+  - Sending data to the server
+  - Returning JSON
+  - `package.json`
+  - `async/await`: A JavaScript language feature
+
+
+### May 25: Back-end development: servers, nodeJS, npm and express. Part 2.
 - **Slides:** [lecture19.pdf]({{ site.baseurl }}/lectures/lecture19.pdf)
   - Servers
   - NodeJS
@@ -20,7 +28,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - fetch() to localhost
 
 
-### May 20: Back-end development: servers, nodeJS, npm and express.
+### May 20: Back-end development: servers, nodeJS, npm and express. Part 1.
 - **Slides:** [lecture18.pdf]({{ site.baseurl }}/lectures/lecture18.pdf)
   - Servers
   - NodeJS
