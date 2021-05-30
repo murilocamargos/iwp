@@ -11,6 +11,7 @@ Welcome to IWP: Interactive Web Programming! In this class, you will learn moder
 - <span class="label">Exams</span> No exams at all.
 
 ## Announcements
+- [30/05] [Homework 6]({{ site.baseurl }}/homework/6-storing-data) is released and is due **Wed, Jun 23**.
 - [11/05] [Homework 5]({{ site.baseurl }}/homework/5-showing-data-with-d3) is released and is due **Wed, Jun 01**.
 - [20/04] [Homework 4]({{ site.baseurl }}/homework/4-info-fetch) is released and is due **Wed, May 11**.
 - [30/03] [Homework 3]({{ site.baseurl }}/homework/3-classes-and-animations) is released and is due **Wed, Apr 14**.
