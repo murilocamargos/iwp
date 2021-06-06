@@ -11,6 +11,31 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Jun 10: MongoDB and NodeJS
+- **Slides:** [lecture22.pdf]({{ site.baseurl }}/lectures/lecture22.pdf)
+  - MongoDB and NodeJS
+    - `mongo` / mongod
+    - insert, find, delete, update, upsert
+    - `ObjectID`
+  - Web application architecture
+    - Multi-page web apps (server-side rendering)
+    - Single-page web apps
+- **Code**
+  - [MongoDB examples repo](https://github.com/yayinternet/mongodb-examples)
+
+
+### Jun 08: Saving data; MongoDB intro
+- **Slides:** [lecture21.pdf]({{ site.baseurl }}/lectures/lecture21.pdf)
+  - Saving data
+    - POST body
+    - `body-parser`
+  - Saving to a file
+  - MongoDB: Saving to a database
+- **Code**
+  - [MongoDB examples repo](https://github.com/yayinternet/mongodb-examples)
+
+
+
 ### May 27: Back-end development: server communication and async/await
 - **Slides:** [lecture20.pdf]({{ site.baseurl }}/lectures/lecture20.pdf)
   - Sending data to the server
