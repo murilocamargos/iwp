@@ -11,6 +11,17 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Jun 15: Modules, Middleware, Routes and Authentication
+- **Slides:** [lecture23.pdf]({{ site.baseurl }}/lectures/lecture23.pdf)
+  - Web application architecture
+    - Server-side rendering with Handlebars
+    - Single-page web app
+  - Modules, Middleware, Routes
+  - Authentication
+- **Code**
+  - [Modules and Routes](https://github.com/yayinternet/module-examples)
+
+
 ### Jun 10: MongoDB and NodeJS
 - **Slides:** [lecture22.pdf]({{ site.baseurl }}/lectures/lecture22.pdf)
   - MongoDB and NodeJS
