@@ -11,6 +11,14 @@ This page will contain the slides, notes, and example code pertaining to lecture
 
 ---
 
+### Jun 24: FINAL LECTURE: What's next?
+- **Slides:** [lecture24.pdf]({{ site.baseurl }}/lectures/lecture24.pdf)
+  - Next steps: General advice
+  - Important ideas we didn't cover
+  - Libraries and frameworks
+  - Final advice
+  - 
+
 ### Jun 15: Modules, Middleware, Routes and Authentication
 - **Slides:** [lecture23.pdf]({{ site.baseurl }}/lectures/lecture23.pdf)
   - Web application architecture
