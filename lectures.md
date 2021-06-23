@@ -17,7 +17,7 @@ This page will contain the slides, notes, and example code pertaining to lecture
   - Important ideas we didn't cover
   - Libraries and frameworks
   - Final advice
-  - 
+
 
 ### Jun 15: Modules, Middleware, Routes and Authentication
 - **Slides:** [lecture23.pdf]({{ site.baseurl }}/lectures/lecture23.pdf)
